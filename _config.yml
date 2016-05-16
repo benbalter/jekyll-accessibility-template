@@ -1,0 +1,9 @@
+title: PRODUCT
+description: CATCHY CATCH PHRASE
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
